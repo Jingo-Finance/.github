@@ -33,8 +33,8 @@
 
 <div style="text-align: center;">
   <h3>Connect with Us</h3>
-  <a href="https://github.com/nishant0708"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a>
-  <a href="https://x.com/Nishant61302189"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/></a>
-  <a href="https://www.instagram.com/nishant0760/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
-  <a href="mailto:nishantkaushal0708@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email"/></a>
+  <a href="https://github.com/Jingo-Finance/"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a>
+  <a href="https://x.com/JingoFinance/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/></a>
+  <a href="https://www.instagram.com/jingofinance/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
+  <a href="mailto:team@jingo.finance"><img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email"/></a>
 </div>
