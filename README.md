@@ -1,6 +1,6 @@
 <div style="text-align: center;">
-  <img src="https://media.giphy.com/media/Yl5aO3gdVfsQ0/giphy.gif" width="100%"/>
-  <h2>Hi there, I'm Nishant! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
+  <img src="https://i.ibb.co/kgSXSr0w/Twitter-Cover.jpg" width="100%"/>
+  <h2>Welcome to Jingo Finance! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
   <p>MERN Stack Developer | Machine Learning Engineer | TypeScript | Next.js | PostgreSQL | Android Development | Firebase | AWS | Azure</p>
 </div>
 
